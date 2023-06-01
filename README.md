@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zaid khan" target="blank"><img align="center" src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKD0W2nnhkNy4dTSK9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzgxYjczODRkODU4YmM0OGExOWNiZjAwZGQ3YjhmZGQxBGdwb3MDNgRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dlinked%2Bimage%26type%3DE211IN826G91646%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D6&w=800&h=800&imgurl=geospatialmedia.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2018%2F09%2FLinkedIN1.png&rurl=https%3A%2F%2Fwww.geospatialworld.net%2Fnews%2Flinkedin-launches-talent-insights-to-help-recruiters%2F&size=73.0KB&p=linked+image&oid=81b7384d858bc48a19cbf00dd7b8fdd1&fr2=piv-web&fr=mcafee&tt=LinkedIn+launches+Talent+Insights+to+help+recruiters+%E2%80%93+Geospatial+World&b=0&ni=21&no=6&ts=&tab=organic&sigr=.YX5tdMBTnrm&sigb=uW6Ikue8QJzc&sigi=Sm2rKJcy.xPp&sigt=bzzSTroaX9I6&.crumb=eCE055L5F3N&fr=mcafee&fr2=piv-web&type=E211IN826G91646" alt="zaid khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaid khan" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.QkU0Vf5aO5Gv8Yf4rXc4qwHaHa&pid=Api&P=0&h=180" alt="zaid khan" height="30" width="40" /></a>
 <a href="https://instagram.com/zaid_03_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaid_03_" height="30" width="40" /></a>
 </p>
 
