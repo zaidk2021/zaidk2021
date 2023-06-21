@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zaid khan" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.QkU0Vf5aO5Gv8Yf4rXc4qwHaHa&pid=Api&P=0&h=180" alt="zaid khan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zaid-khan-903228238/" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.QkU0Vf5aO5Gv8Yf4rXc4qwHaHa&pid=Api&P=0&h=180" alt="zaid khan" height="30" width="40" /></a>
 <a href="https://instagram.com/zaid_03_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaid_03_" height="30" width="40" /></a>
 </p>
 
