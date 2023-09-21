@@ -28,28 +28,34 @@
 
   <!-- Add PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="postgresql_image_url" alt="postgresql" width="40" height="40"/>
-  </a>
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/>
+</a>
+
   <!-- Add MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="mysql_image_url" alt="mysql" width="40" height="40"/>
-  </a>
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40"/>
+</a>
+
   <!-- Add DBeaver -->
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="dbeaver_image_url" alt="dbeaver" width="40" height="40"/>
-  </a>
+    <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40"/>
+</a>
+
   <!-- Add Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="seaborn_image_url" alt="seaborn" width="40" height="40"/>
-  </a>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
+
   <!-- Add NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="numpy_image_url" alt="numpy" width="40" height="40"/>
-  </a>
+    <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
+</a>
+
   <!-- Add Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="matplotlib_image_url" alt="matplotlib" width="40" height="40"/>
-  </a>
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
+</a>
+
   <!-- Add Cufflinks -->
   <a href="https://plotly.com/python/cufflinks/" target="_blank" rel="noreferrer">
     <img src="cufflinks_image_url" alt="cufflinks" width="40" height="40"/>
@@ -59,15 +65,17 @@
     <img src="scikit_learn_image_url" alt="scikit_learn" width="40" height="40"/>
   </a>
   <!-- Add TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="tensorflow_image_url" alt="tensorflow" width="40" height="40"/>
-  </a>
+ <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
+</a>
+
   <!-- Add TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="typescript_image_url" alt="typescript" width="40" height="40"/>
   </a>
   <!-- Add Quill.js -->
-  <a href="https://quilljs.com/" target="_blank" rel="noreferrer">
-    <img src="quill_js_image_url" alt="quill_js" width="40" height="40"/>
-  </a>
+ <a href="https://quilljs.com/" target="_blank" rel="noreferrer">
+    <img src="https://quilljs.com/assets/images/logo.svg" alt="quill_js" width="40" height="40"/>
+</a>
+
 </p>
