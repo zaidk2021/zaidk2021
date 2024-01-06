@@ -46,9 +46,8 @@
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </a>
 
- <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
+[![streamlit](https://raw.githubusercontent.com/zaidk2021/zaidk2021/main/assets/93735014/16c379cb-5c92-42d3-ab84-ad1e01acc4bf.png)](https://streamlit.io/)
+
   <!-- Add NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
