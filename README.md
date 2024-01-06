@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer and ml enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e99ebbea9b97b0eb6c21ec49247354c453de695c1586178666e02e05fb3aca6c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
-- 🔭 I’m currently working on **helping manipal osf in development**
+- 🔭 I’m currently working on development and ml
 
 - 🌱 I’m currently learning **machine learning**
 
@@ -46,6 +46,9 @@
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </a>
 
+ <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
   <!-- Add NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
