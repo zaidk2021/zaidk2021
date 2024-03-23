@@ -4,7 +4,7 @@
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=zaidk2021&label=Profile%20views&color=0e75b6&style=flat" alt="zaidk2021" /> </p>
  
 <p align="center">
-  <img src="Zaid.png" alt="Zaid" width="400" height="400" />
+  <img src="Zaid.png" alt="Zaid" width="100" height="100" />
 </p>
 
 🔭 I’m currently working on development and ml<br>
