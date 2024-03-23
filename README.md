@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
 <h3 align="center">A passionate web developer and ml enthusiast from India</h3>
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=zaidk2021&label=Profile%20views&color=0e75b6&style=flat" alt="zaidk2021" /> </p>
- <br />
-  <img height="50" alt="My Name is Zaid and I like Problem Solving" src="./personal_note.svg" />
-  <br />
+ 
+ 
 - 🔭 I’m currently working on development and ml
 
 - 🌱 I’m currently learning **machine learning**
