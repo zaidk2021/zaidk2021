@@ -3,15 +3,15 @@
 <h3 align="center">A passionate web developer and ml enthusiast from India</h3>
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=zaidk2021&label=Profile%20views&color=0e75b6&style=flat" alt="zaidk2021" /> </p>
  
-- 🔭 I’m currently working on development and ml
-- 🌱 I’m currently learning **machine learning**
-- 💬 Ask me about **the web**
-- 📫 How to reach me **zaid032021@gmail.com**
-- ⚡ Fun fact **i am a tech enthusiast and love problem solving.i love playing sports and gyming in my free time.**
-
 <p align="right">
-  <img src="./Zaid.png" alt="tensorflow" width="400" height="400" />
+  <img src="Zaid.png" alt="Zaid" width="400" height="400" />
 </p>
+
+🔭 I’m currently working on development and ml<br>
+🌱 I’m currently learning **machine learning**<br>
+💬 Ask me about **the web**<br>
+📫 How to reach me **zaid032021@gmail.com**<br>
+⚡ Fun fact: I am a tech enthusiast and love problem solving. I love playing sports and gyming in my free time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
