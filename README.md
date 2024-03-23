@@ -3,19 +3,16 @@
 <h3 align="center">A passionate web developer and ml enthusiast from India</h3>
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=zaidk2021&label=Profile%20views&color=0e75b6&style=flat" alt="zaidk2021" /> </p>
  
- 
 - 🔭 I’m currently working on development and ml
-
 - 🌱 I’m currently learning **machine learning**
-
 - 💬 Ask me about **the web**
-
 - 📫 How to reach me **zaid032021@gmail.com**
-
 - ⚡ Fun fact **i am a tech enthusiast and love problem solving.i love playing sports and gyming in my free time.**
-<p style="text-align: right;">
-    <img src="./Zaid.png" alt="tensorflow" width="100" height="100"/>
+
+<p align="right">
+  <img src="./Zaid.png" alt="tensorflow" width="100" height="100" />
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zaid-khan-903228238/" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.QkU0Vf5aO5Gv8Yf4rXc4qwHaHa&pid=Api&P=0&h=180" alt="zaid khan" height="30" width="40" /></a>
