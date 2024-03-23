@@ -76,9 +76,9 @@
     <img src="https://www.typescriptlang.org/icons/icon-48x48.png" alt="typescript" width="40" height="40"/>
 </a>
 
-  <!-- Add Quill.js -->
- <a href="https://quilljs.com/" target="_blank" rel="noreferrer">
-    <img src="https://quilljs.com/assets/images/logo.svg" alt="quill_js" width="40" height="40"/>
-</a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="scikit_learn_image_url" alt="scikit_learn" width="40" height="40"/>
+  </a>
+
 
 </p>
