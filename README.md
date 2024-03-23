@@ -10,7 +10,7 @@
 - ⚡ Fun fact **i am a tech enthusiast and love problem solving.i love playing sports and gyming in my free time.**
 
 <p align="right">
-  <img src="./Zaid.png" alt="tensorflow" width="100" height="100" />
+  <img src="./Zaid.png" alt="tensorflow" width="400" height="400" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
