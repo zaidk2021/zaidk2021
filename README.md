@@ -82,7 +82,7 @@
   </a>
 
    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="" alt="androidstudioinjava" width="40" height="40"/>
+    <img src="./androidstudio.jpeg" alt="androidstudioinjava" width="40" height="40"/>
 </a>
 
 
