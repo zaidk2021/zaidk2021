@@ -41,28 +41,6 @@
     <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40"/>
 </a>
 
-  <!-- Add Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
-
-
-
-  <!-- Add NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
-</a>
-
-
-  <!-- Add Matplotlib -->
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-
-  <!-- Add Cufflinks -->
-  <a href="https://plotly.com/python/cufflinks/" target="_blank" rel="noreferrer">
-    <img src="cufflinks_image_url" alt="cufflinks" width="40" height="40"/>
-  </a>
   <!-- Add Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="scikit_learn_image_url" alt="scikit_learn" width="40" height="40"/>
