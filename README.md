@@ -53,7 +53,7 @@
 </a>
 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://images.app.goo.gl/fKD3dSiP5vmGrRz97" alt="streamlit" width="40" height="40"/>
+    <img src="./streamlitimg.png" alt="streamlit" width="40" height="40"/>
   </a>
 
    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
