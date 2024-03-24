@@ -41,10 +41,7 @@
     <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40"/>
 </a>
 
-  <!-- Add Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="scikit_learn_image_url" alt="scikit_learn" width="40" height="40"/>
-  </a>
+ 
   <!-- Add TensorFlow -->
  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
