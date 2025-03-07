@@ -60,7 +60,7 @@
     <img src="./androidstudio.jpeg" alt="androidstudioinjava" width="40" height="40"/>
 </a>
    <a href="https://www.netsuite.com/portal/in/home.shtml" target="_blank" rel="noreferrer">
-    <img src="./oraclenetsuite.ong" alt="oraclenetsuite" width="40" height="40"/>
+    <img src="./oraclenetsuite.png" alt="oraclenetsuite" width="40" height="40"/>
 </a>
 
 </p>
